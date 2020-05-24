@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>进击的小白</title>
+  
+  <subtitle>做个程序员吧，而非搬运工</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-05-24T14:32:29.389Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>xizienen</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>xizien</title>
+    <link href="http://yoursite.com/2020/05/24/xizien/"/>
+    <id>http://yoursite.com/2020/05/24/xizien/</id>
+    <published>2020-05-24T14:32:29.000Z</published>
+    <updated>2020-05-24T14:32:29.389Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
